@@ -6,7 +6,7 @@ The results will be displayed in the console.
 
 By https://steemit.com/@chkoenig 2018
 
-This is a code example for the following blog post: <will be added when published>
+This is a code example for the following blog post: https://steemit.com/cryptocurrency/@chkoenig/kryptowaehrungen-per-kreditkarte-ausgeben-lohnt-sich-4281eur-jahr-und-geringem-risiko-inkl-rechenbeispiel
 
 ## Requirements
 
